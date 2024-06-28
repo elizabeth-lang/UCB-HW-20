@@ -1,0 +1,52 @@
+#navbar {
+    background-color: #61371E;
+    color: #FFF3F0 !important;
+}
+#navsection {
+    background-color: #61371E !important;
+    color: #FFF3F0 !important; 
+}
+#menu {
+    background-color: #61371E !important;
+    color: #FFF3F0 !important;
+}
+.navbar-brand {
+    color: #FFF3F0 !important;
+}
+h1 {
+    color: #61371E !important;
+}
+#definitionDiv {
+    background-color: #B37961 !important;
+    color: #61371E;
+}
+#definitionButton {
+    background-color: #61371E !important;
+    border-color: #B37961;
+}
+.ideation {
+    background-color: #FFF3F0 !important;
+    color: #61371E;
+}
+#card {
+    background-color: #FFF3F0;
+    color: #61371E;
+}
+.draft {
+    background-color: #B37961;
+}
+#draftDiv {
+    background-color: #B37961;
+    color: #61371E;
+}
+.testing {
+    background-color: #FFF3F0;
+}
+.solution {
+    background-color: #B37961;
+    color: #61371E;
+}
+#solutionCard {
+    background-color: #B37961;
+    color: #61371E;
+}
